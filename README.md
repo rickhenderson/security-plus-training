@@ -7,4 +7,4 @@ The CompTIA Security+ certification body of knowledge covering a number of conce
 ## The Questions
 It is my hope that I can provide a set of questions relating to each of the recommended tools that will give you **real world** examples and **hands-on** experience working with these tools. It is recommended you get familiar with these tools before you take the Security+ exam, according to Mike Chappel.
 
-* <a href="ping.md">Using Ping</a>
+* <a href="using-ping.md">Using Ping</a>
